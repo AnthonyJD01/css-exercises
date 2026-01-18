@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+p {
+    font-family: "Verdana", "DejaVu sans", "sans-serif";
+    background-color: lightcoral;
+}
